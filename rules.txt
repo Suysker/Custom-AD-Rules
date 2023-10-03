@@ -50,3 +50,4 @@
 ||httpdns*^$important
 ||apple.com^$dnstype=TXT
 ||google.com^$dnstype=TXT
+||cloudflare.com^$dnstype=TXT
