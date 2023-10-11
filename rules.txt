@@ -52,3 +52,5 @@
 ||google.com^$dnstype=TXT
 ||cloudflare.com^$dnstype=TXT
 ||cisco.com^$dnstype=TXT
+||adobe.com^$dnstype=TXT
+||globalsign.com^$dnstype=TXT
