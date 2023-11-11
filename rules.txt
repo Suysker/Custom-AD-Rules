@@ -18,11 +18,11 @@
 @@||powerbi.com^$important
 @@||hm.baidu.com^$important
 @@||sensorsdata.cn^$important
-@@||guide-acs.m.taobao.com^$important
-@@||audid-api.taobao.com^$important
-@@||adashx.m.taobao.com^$important
+#@@||guide-acs.m.taobao.com^$important
+#@@||audid-api.taobao.com^$important
+#@@||adashx.m.taobao.com^$important
+#@@||s.click.taobao.com^$important
 @@||gsp0.baidu.com^$important
-@@||s.click.taobao.com^$important
 @@||www.research.net^$important
 #@@||paypal.com^$important
 @@||phncdn.com^$important
@@ -54,3 +54,4 @@
 ||cisco.com^$dnstype=TXT
 ||adobe.com^$dnstype=TXT
 ||globalsign.com^$dnstype=TXT
+||ap.dongqiudi.com^$important
