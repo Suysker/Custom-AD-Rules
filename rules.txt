@@ -29,6 +29,10 @@
 @@||img-nos.yiyouliao.com^$important
 @@||www.iimedia.cn^$important
 @@||img.iimedia.cn^$important
+@@||report.iimedia.cn^$important
+@@||www.analysys.cn^$important
+@@||pan.quark.cn^$important
+@@||hopper.onelink.me^$important
 #||bt.cn^$important
 ||pcdn-mammon.baidu.com^$important
 ||pcdn-scheduler.baidu.com^$important
