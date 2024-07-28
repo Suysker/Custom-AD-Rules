@@ -62,3 +62,7 @@
 #@@||www.internetdownloadmanager.com^$important
 ||prd-*.tplinkcloud.com.cn^$important
 ||n-relayws-*.tplinkcloud.com.cn^$important
+@@||drive-pc.quark.cn^$important
+@@||uop.quark.cn^$important
+@@||wxapp.tc.qq.com^$important
+||apps-shopify.ipblocker.io^$important
