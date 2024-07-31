@@ -81,6 +81,5 @@
 ||stun*.chat.bilibili.com^$important
 ||*pcdn*.biliapi.net^$important
 ||alipaydns.com^$important
-||alibabadns.com^$important
 ||dns.weixin.qq*^$important
 ||dns.weibo*^$important 
