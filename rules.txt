@@ -38,10 +38,6 @@
 @@||drive-pc.quark.cn^$important
 @@||uop.quark.cn^$important
 @@||wxapp.tc.qq.com^$important
-@@||waimai-guide.ele.me^$important
-@@||nt2.ele.me^$important
-@@||shopping.ele.me^$important
-@@||alsc-buy2.ele.me^$important
 #@@||www.internetdownloadmanager.com^$important
 #||bt.cn^$important
 ||pcdn-mammon.baidu.com^$important
