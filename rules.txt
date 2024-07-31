@@ -38,6 +38,10 @@
 @@||drive-pc.quark.cn^$important
 @@||uop.quark.cn^$important
 @@||wxapp.tc.qq.com^$important
+@@||waimai-guide.ele.me^$important
+@@||nt2.ele.me^$important
+@@||shopping.ele.me^$important
+@@||alsc-buy2.ele.me^$important
 #@@||www.internetdownloadmanager.com^$important
 #||bt.cn^$important
 ||pcdn-mammon.baidu.com^$important
@@ -68,7 +72,6 @@
 ||internetdownloadmanager.com^$important
 ||prd-*.tplinkcloud.com.cn^$important
 ||n-relayws-*.tplinkcloud.com.cn^$important
-||apps-shopify.ipblocker.io^$important
 ||apps-shopify.ipblocker.io^$important
 ||public.144dns*^$important
 ||hdns.ksyun*^$important
