@@ -38,7 +38,7 @@
 @@||drive-pc.quark.cn^$important
 @@||uop.quark.cn^$important
 @@||wxapp.tc.qq.com^$important
-#@@||www.internetdownloadmanager.com^$important
+@@||www.internetdownloadmanager.com^$important
 #||bt.cn^$important
 ||pcdn-mammon.baidu.com^$important
 ||pcdn-scheduler.baidu.com^$important
