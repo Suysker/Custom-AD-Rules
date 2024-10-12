@@ -33,6 +33,7 @@
 @@||www.analysys.cn^$important
 @@||pan.quark.cn^$important
 @@||drive-pc.quark.cn^$important
+@@||drive-h.quark.cn^$important
 @@||uop.quark.cn^$important
 @@||wxapp.tc.qq.com^$important
 @@||drive-pc.quark.cn^$important
