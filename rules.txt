@@ -39,7 +39,6 @@
 @@||drive-pc.quark.cn^$important
 @@||uop.quark.cn^$important
 @@||wxapp.tc.qq.com^$important
-@@||www.internetdownloadmanager.com^$important
 #||bt.cn^$important
 ||pcdn-mammon.baidu.com^$important
 ||pcdn-scheduler.baidu.com^$important
@@ -66,7 +65,8 @@
 ||adobe.com^$dnstype=TXT
 ||globalsign.com^$dnstype=TXT
 ||ap.dongqiudi.com^$important
-||internetdownloadmanager.com^$important
+#||internetdownloadmanager.com^$important
+#@@||www.internetdownloadmanager.com^$important
 ||prd-*.tplinkcloud.com.cn^$important
 ||n-relayws-*.tplinkcloud.com.cn^$important
 ||apps-shopify.ipblocker.io^$important
@@ -81,3 +81,6 @@
 #||alipaydns.com^$important
 ||dns.weixin.qq*^$important
 ||dns.weibo*^$important 
+||adobe.io^$important
+@@||lcs-cops.adobe.io^$important
+@@||fds.api.xiaomi.com^$important
